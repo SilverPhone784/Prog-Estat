@@ -1,7 +1,3 @@
-# Prog-Estat
+# Programação Estatística
 
-Qualquer Coisa
-
-Qualquer Coisa denovo parte 2 o inimigo agora é outro
-
-Mais coisas denovo novamente repetidamente
+Repositorio para o curso de programação estatística 2026/2
